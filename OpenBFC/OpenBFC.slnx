@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OpenBFC/OpenBFC.vcxproj" Id="92e9b98c-5e4c-4416-b4d0-c7e78aefecfd" />
+</Solution>
